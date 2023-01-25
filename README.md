@@ -6,6 +6,15 @@
 
 Note: Please ensure your device has latest flutter version
 
+# Features
+- Login
+- Register
+- Kanban Board 
+- Create | Update | Delete a Ticket
+- Logs and work logs
+- In Kanban board, Long press the tickets to drag one column to another column
+
+
 # Video (Click to play)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tSwCKBCuKgc/0.jpg)](https://www.youtube.com/watch?v=tSwCKBCuKgc)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zqlNroPX5JQ/0.jpg)](https://www.youtube.com/watch?v=zqlNroPX5JQ)
