@@ -1,4 +1,10 @@
-# time_tracking
+# Run Time Tracking App
+- Clone project
+- Go to the folder location in terminal
+- ``` flutter pub get ```
+- ``` flutter run ```
+
+Note: Please ensure your device has latest flutter version
 
 # Video (Click to play)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tSwCKBCuKgc/0.jpg)](https://www.youtube.com/watch?v=tSwCKBCuKgc)
